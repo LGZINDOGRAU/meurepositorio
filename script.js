@@ -2,15 +2,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // Array de objetos com os dados dos alunos
     // *** IMPORTANTE: Edite esta lista com os nomes e notas reais dos seus alunos ***
     const alunos = [
-        { nome: "Ana Silva", nota: 9.8 },
-        { nome: "Bruno Costa", nota: 9.5 },
-        { nome: "Carla Souza", nota: 9.2 },
-        { nome: "Daniel Pereira", nota: 9.0 },
-        { nome: "Elisa Santos", nota: 8.9 },
+        { nome: "Kauey", nota: 9.8 },
+        { nome: "Luis", nota: 9.5 },
+        { nome: "Gustavo", nota: 9.2 },
+        { nome: "Ana Júlia", nota: 9.0 },
+        { nome: "Lara", nota: 8.9 },
         // Adicione mais alunos aqui seguindo o mesmo formato
-        { nome: "Felipe Rodrigues", nota: 8.7 },
-        { nome: "Gabriela Oliveira", nota: 8.5 },
-        { nome: "Henrique Martins", nota: 8.3 }
+        { nome: "Marlon", nota: 8.7 },
+        { nome: "Ana clara", nota: 8.5 },
+        { nome: "Isabelly", nota: 8.3 }
     ];
 
     // Ordena os alunos pela nota, da maior para a menor
